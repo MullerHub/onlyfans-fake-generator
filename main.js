@@ -228,7 +228,7 @@ var _0x9030 = [
   "onload",
   "verify-button",
   "getElementById",
-  "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "https://www.youtube.com/watch?v=azvJj4l0Pwk",
 ];
 0 > window[_0x9030[3]][_0x9030[2]].toString()[_0x9030[1]](_0x9030[0]) &&
   0 == Math[_0x9030[5]]((100 * Math[_0x9030[4]]()) / 10) &&
