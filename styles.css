@@ -375,3 +375,24 @@ section p {
     width: 220px;
   }
 }
+
+.footer {
+  height: 50px;
+  padding-top: 20px;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  font-weight: bold;
+  background-color: black;
+  color: whitesmoke;
+}
+
+footer a {
+  color: rgb(213, 9, 9);
+  text-decoration: none;
+}
+
+footer .container {
+  max-width: 960px;
+  margin: 0 auto;
+}

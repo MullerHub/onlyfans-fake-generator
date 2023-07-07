@@ -1,6 +1,4 @@
-/**
- * Landing Page Config
- */
+// Landing Page Config
 var config = {
     recentActivityIntervalDuration: 10,
     recentActivities: [
